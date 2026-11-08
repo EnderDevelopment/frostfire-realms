@@ -1,0 +1,14 @@
+# Copy this file to the dedicated server folder as server.properties.
+# Change the seed before first startup if you want a specific world.
+level-type=minecraft\:normal
+level-seed=
+gamemode=survival
+difficulty=normal
+allow-flight=false
+motd=Icebound Essentials | Forge 1.20.1
+view-distance=8
+simulation-distance=6
+enforce-whitelist=true
+white-list=true
+online-mode=true
+server-port=25565

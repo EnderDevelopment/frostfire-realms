@@ -1,0 +1,46 @@
+{
+  "name": "Icebound Essentials",
+  "minecraft": "1.20.1",
+  "loader": "Forge",
+  "loaderVersion": "47.2.0",
+  "java": 17,
+  "requiredOnServer": [
+    {"name":"Ice and Fire: Community Edition","project":"https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-community-edition","reason":"dragons, mobs, structures and progression"},
+    {"name":"Citadel","project":"https://www.curseforge.com/minecraft/mc-mods/citadel","reason":"Ice and Fire dependency"},
+    {"name":"YUNG's API","project":"https://www.curseforge.com/minecraft/mc-mods/yungs-api","reason":"structure mod dependency"},
+    {"name":"YUNG's Better Dungeons","project":"https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons","reason":"dungeon structures"},
+    {"name":"YUNG's Better Strongholds","project":"https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds","reason":"stronghold overhaul"},
+    {"name":"Towns and Towers","project":"https://www.curseforge.com/minecraft/mc-mods/towns-and-towers","reason":"villages and outposts"},
+    {"name":"When Dungeons Arise","project":"https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise","reason":"large adventure structures"},
+    {"name":"Waystones","project":"https://www.curseforge.com/minecraft/mc-mods/waystones","reason":"multiplayer travel"},
+    {"name":"Balm","project":"https://www.curseforge.com/minecraft/mc-mods/balm","reason":"Waystones dependency"},
+    {"name":"JEI","project":"https://www.curseforge.com/minecraft/mc-mods/jei","reason":"recipe and usage lookup"},
+    {"name":"Simple Voice Chat","project":"https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat","reason":"proximity voice for multiplayer"},
+    {"name":"TerraBlender","project":"https://www.curseforge.com/minecraft/mc-mods/terrablender","reason":"world-generation library"},
+    {"name":"Biomes O' Plenty","project":"https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty","reason":"additional biomes"}
+  ],
+  "recommendedOnClientAndServer": [
+    {"name":"Sophisticated Backpacks","project":"https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks","reason":"portable storage"},
+    {"name":"Sophisticated Core","project":"https://www.curseforge.com/minecraft/mc-mods/sophisticated-core","reason":"Sophisticated Backpacks dependency"},
+    {"name":"Artifacts","project":"https://www.curseforge.com/minecraft/mc-mods/artifacts","reason":"exploration rewards"},
+    {"name":"Curios API","project":"https://www.curseforge.com/minecraft/mc-mods/curios","reason":"Artifacts dependency"},
+    {"name":"Alex's Mobs","project":"https://www.curseforge.com/minecraft/mc-mods/alexs-mobs","reason":"overworld wildlife and hostile mobs"}
+  ],
+  "clientOnly": [
+    {"name":"Embeddium","project":"https://www.curseforge.com/minecraft/mc-mods/embeddium","reason":"rendering performance"},
+    {"name":"Oculus","project":"https://www.curseforge.com/minecraft/mc-mods/oculus","reason":"optional shader support"},
+    {"name":"FerriteCore","project":"https://www.curseforge.com/minecraft/mc-mods/ferritecore","reason":"memory reduction"},
+    {"name":"ModernFix","project":"https://www.curseforge.com/minecraft/mc-mods/modernfix","reason":"startup and memory improvements"},
+    {"name":"Entity Culling","project":"https://www.curseforge.com/minecraft/mc-mods/entityculling","reason":"client rendering performance"},
+    {"name":"Mouse Tweaks","project":"https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks","reason":"inventory quality of life"},
+    {"name":"AppleSkin","project":"https://www.curseforge.com/minecraft/mc-mods/appleskin","reason":"food HUD information"},
+    {"name":"Xaero's Minimap","project":"https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap","reason":"navigation"},
+    {"name":"Xaero's World Map","project":"https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map","reason":"world mapping"}
+  ],
+  "optionalExtras": [
+    {"name":"Create","project":"https://www.curseforge.com/minecraft/mc-mods/create","reason":"engineering and automation"},
+    {"name":"Supplementaries","project":"https://www.curseforge.com/minecraft/mc-mods/supplementaries","reason":"building and survival variety"},
+    {"name":"Moonlight Lib","project":"https://www.curseforge.com/minecraft/mc-mods/selene","reason":"Supplementaries dependency"},
+    {"name":"Storage Drawers","project":"https://www.curseforge.com/minecraft/mc-mods/storage-drawers","reason":"bulk storage"}
+  ]
+}
